@@ -1,3 +1,5 @@
+import "./styling.css";
+
 const Buttons = ({ filterByType, setSat, displaySats }) => {
   return (
     <div>
